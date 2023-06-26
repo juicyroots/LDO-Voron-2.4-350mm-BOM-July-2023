@@ -34,8 +34,13 @@
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
+# Raspberry Pi
+
+* [Raspberry Pi OS/Imager](https://www.raspberrypi.com/software/)
+
 # Firmware & OS
 
+* [KIAUH - Klipper Installation And Update Helper](https://github.com/th33xitus/kiauh)
 * [Klipper Firmware](https://www.klipper3d.org/)
 * [Mainsail](https://github.com/mainsail-crew/mainsail/)
 * [Mainsail Releases](https://github.com/mainsail-crew/mainsail/releases/)
