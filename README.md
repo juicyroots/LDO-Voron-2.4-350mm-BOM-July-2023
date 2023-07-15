@@ -44,6 +44,7 @@
 * [Klipper Firmware](https://www.klipper3d.org/)
 * [Mainsail](https://github.com/mainsail-crew/mainsail/)
 * [Mainsail Releases](https://github.com/mainsail-crew/mainsail/releases/)
+* [BigTreeTech Octopus V1.0](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)
 * [Klicky Probe](https://github.com/jlas1/Klicky-Probe)
 
 # Printing
