@@ -46,6 +46,7 @@
 
 * [KIAUH - Klipper Installation And Update Helper](https://github.com/th33xitus/kiauh)
 * [Klipper Firmware](https://www.klipper3d.org/)
+* [Klipper Configuration Reference](https://www.klipper3d.org/Config_Reference.html)
 * [Mainsail](https://github.com/mainsail-crew/mainsail/)
 * [Mainsail Releases](https://github.com/mainsail-crew/mainsail/releases/)
 * [BigTreeTech Octopus V1.0](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)
