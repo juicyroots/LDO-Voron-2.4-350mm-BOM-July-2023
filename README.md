@@ -29,6 +29,10 @@
 * [LDO Voron 2.4 Kit Hangout and Build - Steve Builds](https://www.youtube.com/playlist?list=PL0fUJbigELQPqpeGOgHYisG4KaSXVtnNY)
 * [LDO Voron 2.4r2 Complete Build - Maple Leaf Makers](https://www.youtube.com/playlist?list=PLbjc_N84E0x39mKHYY3Yd7dTGvGkKpgpU)
 
+# Hotend
+
+* [Revo Voron Docs] (https://e3d-online.zendesk.com/hc/en-us/articles/6450240404893-Revo-Voron-Documentation)
+
 # Software
 
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
