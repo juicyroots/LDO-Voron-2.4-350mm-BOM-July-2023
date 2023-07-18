@@ -10,7 +10,10 @@
 ## Hotend
 
 * E3D Revo Hotend LDO Edition, with 0.4/0.6mm, 2 nozzles (Revo Voron)
+* Thermistor: Semitec 104NT-4-R025H42G
 * Max Temp: 300C
+* Voltage: 24V
+* Wattage: 40W
 
 ## Extruder
 
