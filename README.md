@@ -1,3 +1,7 @@
+# Startup Checks
+
+* [Voron Startup Checks](https://docs.vorondesign.com/build/startup/)
+
 # LDO Kit Docs
 
 * [LDO Voron2 Docs](https://docs.ldomotors.com/en/voron/voron2)
