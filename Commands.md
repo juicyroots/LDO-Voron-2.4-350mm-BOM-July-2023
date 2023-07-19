@@ -1,3 +1,20 @@
+## General Gcode
+
+Home Printer
+```gcode
+G28
+```
+
+Save Config and Reboot Printer
+```gcode
+SAVE_CONFIG
+```
+
+Bed Leveling
+```gcode
+QUAD_GANTRY_LEVEL
+```
+
 ## PID Tune Heated Bed
 Move nozzle to the center of the bed and approximately 5-10mm above the bed surface, then run:
 ```gcode
