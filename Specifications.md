@@ -23,6 +23,7 @@
 
 * Cast 5083 Aluminium, Blanchard Ground, w/LDO AC Heatpad & Thermal Fuse (125C) - 355x355x10mm
 * 120VAC 750W silicone bed heater
+* Thermistor: Generic 3950
 
 ## Motors
 
