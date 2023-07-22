@@ -1,3 +1,21 @@
+## KIAUH
+
+Step 1:
+To download this script, it is necessary to have git installed. If you don't have git already installed, or if you are unsure, run the following command:
+```
+sudo apt-get update && sudo apt-get install git -y
+```
+Step 2:
+Once git is installed, use the following command to download KIAUH into your home-directory:
+```
+cd ~ && git clone https://github.com/th33xitus/kiauh.git
+```
+Step 3:
+Finally, start KIAUH by running the next command:
+```
+./kiauh/kiauh.sh
+```
+
 ## Secondary MCU Software Install
 
 ```
