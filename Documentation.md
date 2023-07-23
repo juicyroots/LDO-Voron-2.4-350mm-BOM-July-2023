@@ -1,6 +1,7 @@
 # Startup Checks
 
 * [Voron Startup Checks](https://docs.vorondesign.com/build/startup/)
+* [Filament Runout Sensor](https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md)
 
 # LDO Kit Docs
 
