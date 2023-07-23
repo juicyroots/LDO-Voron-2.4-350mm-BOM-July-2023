@@ -2,6 +2,7 @@
 
 * [Voron Startup Checks](https://docs.vorondesign.com/build/startup/)
 * [Filament Runout Sensor](https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md)
+* [Runout Macros](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/040d31c6daaed23c2a1a353545e7ee442a232f32/articles/useful_macros.md)
 
 # LDO Kit Docs
 
