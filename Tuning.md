@@ -36,6 +36,9 @@ After completing these scripts, Klipper will store the results in two CSV files:
 ~/klipper/scripts/calibrate_shaper.py /tmp/resonances_y_*.csv -o /tmp/shaper_calibrate_y.png
 ```
 
+## Cable Orientation
+![Input Shaper Cable Orientation](https://docs.ldomotors.com/input_shaper_kit/pi_zero_2w.jpg "Input Shaper Cable Orientation")
+
 ## Pressure Advance
 
 Use a high speed (eg, 100mm/s), zero infill, and a coarse layer height (the layer height should be around 75% of the nozzle diameter). Make sure any "dynamic acceleration control" is disabled in the slicer
