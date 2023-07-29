@@ -51,4 +51,6 @@ SET_VELOCITY_LIMIT SQUARE_CORNER_VELOCITY=1 ACCEL=500
 TUNING_TOWER COMMAND=SET_PRESSURE_ADVANCE PARAMETER=ADVANCE START=0 FACTOR=.005
 ```
 
+```
 pressure_advance = <start> + <measured_height> * <factor>. (For example, 0 + 12.90 * .020 would be .258.)
+```
