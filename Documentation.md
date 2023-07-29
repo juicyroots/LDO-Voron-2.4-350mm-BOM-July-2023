@@ -11,6 +11,7 @@
 * [LDO Voron2 Wiring Guide](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c)
 * [LDO Voron2 Build Notes & FAQ](https://docs.ldomotors.com/en/voron/voron2/build-faq)
 * [LDO Voron2 Addendum](https://docs.ldomotors.com/en/voron/voron2/kit-errata)
+* [Touchscreen Setup for Klipper](https://docs.ldomotors.com/en/guides/btt_43_rotate_guide)
 
 # Voron Official Docs
 
