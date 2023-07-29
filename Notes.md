@@ -70,11 +70,21 @@ List serial devices on Pi, such as the Octopus and Input Shaper
 ls /dev/serial/by-id/*
 ```
 
-## Set variables in Cura for print_start macro.
+## Cura Setup
+
+### Set Variables
 
 In Cura go to "Settings" -> "Printer" -> "Manage printers" -> "Machine settings" -> "Start G-code" and update it to
 ```
 print_start EXTRUDER={material_print_temperature_layer_0} BED={material_bed_temperature_layer_0} CHAMBER={build_volume_temperature}
+```
+
+### Set Timelapse
+
+Click on Extensions -> Post Processing -> Modify G-Code.
+Navigate to Add a script -> Insert at layer change -> G-code to insert
+```
+TIMELAPSE_TAKE_FRAME
 ```
 
 ## Raspberry Pi Webcam
