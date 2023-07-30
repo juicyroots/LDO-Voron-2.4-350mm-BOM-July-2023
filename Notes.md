@@ -87,19 +87,6 @@ Navigate to Add a script -> Insert at layer change -> G-code to insert
 TIMELAPSE_TAKE_FRAME
 ```
 
-## Raspberry Pi Webcam
-
-```
-v4l2-ctl --list-devices
-```
-```
-ls /dev/video*
-```
-```
-lsusb
-```
-
-
 ## Misc
 ```
 /home/pi/crowsnest/tools/dev-helper.sh -c
