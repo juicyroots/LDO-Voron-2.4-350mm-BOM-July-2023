@@ -98,3 +98,9 @@ ls /dev/video*
 ```
 lsusb
 ```
+
+
+## Misc
+```
+/home/pi/crowsnest/tools/dev-helper.sh -c
+```
