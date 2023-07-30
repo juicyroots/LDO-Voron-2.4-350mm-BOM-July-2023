@@ -105,7 +105,7 @@ lsusb
 /home/pi/crowsnest/tools/dev-helper.sh -c
 ```
 
-##Logitech C920
+### Logitech C920
 ```
                      brightness (int)  : min=0 max=255 step=1 default=-8193 value=128
                        contrast (int)  : min=0 max=255 step=1 default=57343 value=128
