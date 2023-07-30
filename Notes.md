@@ -104,3 +104,24 @@ lsusb
 ```
 /home/pi/crowsnest/tools/dev-helper.sh -c
 ```
+
+##Logitech C920
+```
+                     brightness (int)  : min=0 max=255 step=1 default=-8193 value=128
+                       contrast (int)  : min=0 max=255 step=1 default=57343 value=128
+                     saturation (int)  : min=0 max=255 step=1 default=57343 value=128
+ white_balance_temperature_auto (bool) : default=1 value=1
+                           gain (int)  : min=0 max=255 step=1 default=57343 value=0
+           power_line_frequency (menu) : min=0 max=2 default=2 value=2
+      white_balance_temperature (int)  : min=2000 max=6500 step=1 default=57343 value=4000 flags=inactive
+                      sharpness (int)  : min=0 max=255 step=1 default=57343 value=128
+         backlight_compensation (int)  : min=0 max=1 step=1 default=57343 value=0
+                  exposure_auto (menu) : min=0 max=3 default=0 value=3
+              exposure_absolute (int)  : min=3 max=2047 step=1 default=250 value=250 flags=inactive
+         exposure_auto_priority (bool) : default=0 value=1
+                   pan_absolute (int)  : min=-36000 max=36000 step=3600 default=0 value=0
+                  tilt_absolute (int)  : min=-36000 max=36000 step=3600 default=0 value=0
+                 focus_absolute (int)  : min=0 max=250 step=5 default=8189 value=0 flags=inactive
+                     focus_auto (bool) : default=1 value=1
+                  zoom_absolute (int)  : min=100 max=500 step=1 default=57343 value=100
+```
