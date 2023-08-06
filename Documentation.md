@@ -11,7 +11,7 @@
 * [LDO Voron2 Build Notes & FAQ](https://docs.ldomotors.com/en/voron/voron2/build-faq)
 * [LDO Voron2 Addendum](https://docs.ldomotors.com/en/voron/voron2/kit-errata)
 * [Touchscreen Setup for Klipper](https://docs.ldomotors.com/en/guides/btt_43_rotate_guide)
-* [LDO https://github.com/MotorDynamicsLab/LDOVoron2oron2 GitHub](https://github.com/MotorDynamicsLab/LDOVoron2)
+* [LDO GitHub](https://github.com/MotorDynamicsLab/LDOVoron2)
 
 # Voron Official Docs
 
