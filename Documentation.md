@@ -1,10 +1,9 @@
-# Startup Checks
+# Startup & Tuning
 
 * [Voron Startup Checks](https://docs.vorondesign.com/build/startup/)
-* [Filament Runout Sensor](https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md)
-* [Runout Macros](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/040d31c6daaed23c2a1a353545e7ee442a232f32/articles/useful_macros.md)
+* [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 
-# LDO Kit Docs
+# LDO Kit Docs & Files
 
 * [LDO Voron2 Docs](https://docs.ldomotors.com/en/voron/voron2)
 * [LDO Voron2 Printed Parts Guide](https://docs.ldomotors.com/en/voron/voron2/printed_part_guide_rev_c)
@@ -12,6 +11,7 @@
 * [LDO Voron2 Build Notes & FAQ](https://docs.ldomotors.com/en/voron/voron2/build-faq)
 * [LDO Voron2 Addendum](https://docs.ldomotors.com/en/voron/voron2/kit-errata)
 * [Touchscreen Setup for Klipper](https://docs.ldomotors.com/en/guides/btt_43_rotate_guide)
+* [LDO https://github.com/MotorDynamicsLab/LDOVoron2oron2 GitHub](https://github.com/MotorDynamicsLab/LDOVoron2)
 
 # Voron Official Docs
 
@@ -28,7 +28,12 @@
 * [Voron GitHub STLs](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs)
 * [Voron GitHub Firmware](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware)
 
-# Build Guides
+# Project Build Guides
+
+* [Enraged Rabbit Project Github](https://github.com/EtteGit/EnragedRabbitProject)
+* [Voron Tap GitHub](https://github.com/VoronDesign/Voron-Tap)
+
+# Printer Build Guides
 
 * [Voron 2.4 Step by Step - Scott Corn](https://www.youtube.com/playlist?list=PLSdS8RXoNhoRzDMZr9bK9-mfZjJzyWP8E)
 * [Voron V2.4r2 Build Livestreams - Nero 3D](https://www.youtube.com/playlist?list=PL7zrGeKp_8CQr1kje-J2xX_pxr_M92t01)
@@ -38,7 +43,7 @@
 
 # Hotend
 
-* [Revo Voron Docs] (https://e3d-online.zendesk.com/hc/en-us/articles/6450240404893-Revo-Voron-Documentation)
+* [Revo Voron Docs](https://e3d-online.zendesk.com/hc/en-us/articles/6450240404893-Revo-Voron-Documentation)
 
 # Software
 
@@ -55,13 +60,7 @@
 * [Klipper Firmware](https://www.klipper3d.org/)
 * [Klipper Configuration Reference](https://www.klipper3d.org/Config_Reference.html)
 * [Mainsail](https://github.com/mainsail-crew/mainsail/)
-* [Mainsail Releases](https://github.com/mainsail-crew/mainsail/releases/)
 * [BigTreeTech Octopus V1.0](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0) | [Octopus Breakdown](https://3dwork.io/en/btt-octopus/)
-* [Klicky Probe](https://github.com/jlas1/Klicky-Probe)
-
-# Printing
-
-* [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 
 # Misc
 
