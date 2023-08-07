@@ -74,7 +74,6 @@ Recommended shaper is mzv @ 60.0 Hz
 
 ### Y Axis
 
-
 Fitted shaper 'zv' frequency = 44.0 Hz (vibrations = 14.9%, smoothing ~= 0.085)
 To avoid too much smoothing with 'zv', suggested max_accel <= 7500 mm/sec^2
 Fitted shaper 'mzv' frequency = 42.6 Hz (vibrations = 1.6%, smoothing ~= 0.112)
@@ -87,3 +86,24 @@ Fitted shaper '3hump_ei' frequency = 76.4 Hz (vibrations = 0.0%, smoothing ~= 0.
 To avoid too much smoothing with '3hump_ei', suggested max_accel <= 4300 mm/sec^2
 Recommended shaper is 2hump_ei @ 63.6 Hz
 
+# Tuning Notes - Sanity Check
+
+- Solid Print Table/Surface
+- Square and Measure Frame Corners
+- Greased Rails
+- Belt Tension
+- Heat Soak Tightening
+- Hotend PID Tuning
+- Bed PID Tuning
+- Quad Gantry Level
+- Bed Mesh
+- Extruder Calibration
+- Wash Build Surface
+- First Layer Z Height
+- Pressure Advance Tuning
+- Extrusion Multiplier Tuning
+- PA / EM Oddities
+- Cooling and Layer Times
+- Retraction
+- Infill/Perimeter Overlap
+- Stepover
