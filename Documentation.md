@@ -18,6 +18,7 @@
 * [Voron 2.4 Home](https://www.vorondesign.com/voron2.4)
 * [Voron 2.4 Documentation](https://docs.vorondesign.com/)
 * [Voron 2.4 Assembly Manual (PDF)](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf)
+* [Voron GitHub STLs](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs)
 * [Voron 2.4 Forum](https://forum.vorondesign.com/forums/voron-v2-x.11/)
 * [VoronDesign Discord](https://discord.com/invite/voron)
 
