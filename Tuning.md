@@ -110,6 +110,8 @@ Recommended shaper is 2hump_ei @ 63.6 Hz
 
 # Random Notes
 
+[PA Tuning](https://ellis3dp.com/Pressure_Linear_Advance_Tool/)
+
 ```gcode
-print_start EXTRUDER_TEMP=[HOTEND_TEMP] BED_TEMP=[BED_TEMP]
+print_start EXTRUDER=[HOTEND_TEMP] BED=[BED_TEMP]
 ```
