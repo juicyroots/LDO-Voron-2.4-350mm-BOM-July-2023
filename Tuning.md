@@ -107,3 +107,9 @@ Recommended shaper is 2hump_ei @ 63.6 Hz
 - Retraction
 - Infill/Perimeter Overlap
 - Stepover
+
+# Random Notes
+
+```gcode
+print_start EXTRUDER_TEMP=[HOTEND_TEMP] BED_TEMP=[BED_TEMP]
+```
